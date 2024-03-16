@@ -1,1 +1,1 @@
-# My-SQL-Scripts
+# My-SQL-scripts
